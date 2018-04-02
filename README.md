@@ -12,7 +12,6 @@ Here is a list of commands:
         - !gamble <amount> #Lets you gamble your money.
         - !pay <user> <amount> #Lets you pay money to another user.
         - !rank <user> #Shows a users level, experience and server ranking.
-
     Staff/Admin Commands:
         - !setprefix <prefix> #Sets the command prefix which all commands will have, except for '!getprefix'.
         - !permban <user> #Permanently bans a user from the server.
