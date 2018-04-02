@@ -2,6 +2,14 @@ Welcome people.
 
 HelpingBot is a public Discord bot that anyone can invite to their Discord server using this link - https://discordapp.com/oauth2/authorize?client_id=429289955983097866&permissions=8&scope=bot
 
+
+
+Information:
+
+With my bot you can ban, mute and play with a generated economy for your server. Everything is stored in my database and you just have to use whatever you want. With my bot you can set the channels for using specific commands in. For example if you only want your users to be able to use the bots commands in a channel called 'bot-commands' you can type '!setonlychannel #bot-commands' and my bot won't respond to any messages in any other channels. If you delete that channel it will get reset, don't worry about that. If you want something to be added you can tell me to add it and I will do my best to do it.
+
+
+
 Here is a list of commands:
 
     - !help #View the commands help menu.
