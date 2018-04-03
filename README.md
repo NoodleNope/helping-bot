@@ -25,3 +25,5 @@ Here is a list of commands:
     - !balance setchannel <channel> #Sets the channel which all "ECONOMY" commands have to be performed from.
     - !gamble setchannel <channel> #Sets the channel which all "ECONOMY" commands have to be performed from.
     - !pay setchannel <channel> #Sets the channel which all "ECONOMY" commands have to be performed from.
+    - !setjoinleavechanel <channel> #Sets the channel for the join/leave messages to appear in.
+    - !lockdown <time> #Locks the server for anyone joining it, incase of a spam-attack.
