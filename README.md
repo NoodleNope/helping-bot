@@ -1,6 +1,6 @@
 Welcome people.
 
-HelpingBot is a public Discord bot that anyone can invite to their Discord server using this link - https://discordapp.com/oauth2/authorize?client_id=429289955983097866&permissions=8&scope=bot
+HelpingBot is a public Discord bot that anyone can invite to their Discord server using this link - https://discordapp.com/oauth2/authorize?client_id=429289955983097866&scope=bot
 
 
 
