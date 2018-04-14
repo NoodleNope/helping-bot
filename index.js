@@ -180,5 +180,3 @@ function updatelevel(message, guildId) {
     guildDatabase[guildId].users[message.author.id].experience++;
   }
 }
-
-bot.login("NDI5Mjg5OTU1OTgzMDk3ODY2.DZ_e8g.LQh7QiJA2vmI1bn_EjXRNuXXdaU");
